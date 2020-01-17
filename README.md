@@ -1,1 +1,1 @@
-This is Nick's first(ish) Git project!
+This is Nick's first(ish) Markdown file!
